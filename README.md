@@ -106,9 +106,7 @@ I build **products**, not just projects — scalable, secure, and production-rea
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="300">
-</p>
+
 
 <p align="center">
   <b>⚔️ Build systems like empires. Make them timeless.</b>
