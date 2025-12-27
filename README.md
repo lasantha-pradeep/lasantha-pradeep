@@ -1,6 +1,9 @@
 <!-- TOP ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/8F3bK4aq1tCo0TLkf7/giphy.gif" width="600" alt="Qin Shi Huang - Record of Ragnarok">
+  <img 
+    src="https://media.tenor.com/J0q6Xg8z7yAAAAAC/qin-shi-huang-ragnarok.gif"
+    width="600"
+  />
 </p>
 
 <h1 align="center">👋 Hi, I'm Lasantha Pradeep</h1>
