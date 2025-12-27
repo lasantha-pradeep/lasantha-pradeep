@@ -94,6 +94,7 @@ I build **products**, not just projects — scalable, secure, and production-rea
 > ⚔️ Like **Qin Shi Huang**, I believe in **strong foundations, absolute structure, and systems that endure**.  
 > Chaos is defeated not by force — but by **design**.
 
+
 ---
 
 ## 📫 Connect With Me
@@ -102,7 +103,11 @@ I build **products**, not just projects — scalable, secure, and production-rea
 - 🧠 Always interested in **hard system problems**
 - 🌍 Location: Sri Lanka (Remote-friendly)
 
-
+<p align="center">
+  <a href="https://github.com/lasantha-pradeep">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
