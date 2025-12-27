@@ -9,7 +9,7 @@
 
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Lasantha+Pradeep;Architecting+Empires+of+Code;Backend+%E2%80%A2+Infrastructure+%E2%80%A2+Security" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Lasantha+Pradeep;Infrastructure;Backend-Designs;Architecture" alt="Typing SVG" />
     </a>
   </h1>
 
@@ -20,9 +20,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=header"/>
 </div>
 
+<div align="center">
+  <img src="https://github.com/lasantha-pradeep/lasantha-pradeep/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 ## 👤 <span style="color:#d4af37">The Architect</span>
 
-I am a **Backend Software Engineer and System Administrator** specializing in **enterprise-grade systems**. Like a fortress, my work focuses on structure, defense, and reliability. I bridge the gap between application architecture and operating system hardening.
+I am a **Backend Software Engineer and System Administrator** specializing in **enterprise-grade systems**. My work focuses on structure, defense, and reliability. I bridge the gap between application architecture and operating system hardening.
 
 > *"Architecture is authority, not convenience. Stability is designed — not patched."*
 
@@ -98,5 +102,5 @@ I am a **Backend Software Engineer and System Administrator** specializing in **
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer"/>
   <br>
-  <p><i>"I approach systems the way Qin Shi Huang unified an empire: with clear boundaries, enforceable rules, and strong foundations."</i></p>
+  <p><i>"I build systems with clear boundaries, enforceable rules, and strong foundations."</i></p>
 </div>
