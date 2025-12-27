@@ -30,6 +30,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # VITAL: Use the secret we created to see private repos
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       # Pushes the content to the output branch
       - name: push github-contribution-grid-snake.svg to the output branch
@@ -38,4 +41,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
+          # This can stay as the default token just to push the file
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
