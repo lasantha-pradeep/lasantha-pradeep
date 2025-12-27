@@ -1,142 +1,102 @@
-<p align="center">
+<div align="center">
+
   <img 
-    src="https://media.tenor.com/5s4dJk6jv7kAAAAC/qin-shi-huang-record-of-ragnarok.gif"
-    width="700"
+    src="https://media.tenor.com/5s4dJk6jv7kAAAAC/qin-shi-huang-record-of-ragnarok.gif" 
+    width="100%" 
+    style="border-radius: 10px; max-width: 600px;"
     alt="Qin Shi Huang - Record of Ragnarok"
   />
-</p>
 
-<h1 align="center">Lasantha Pradeep</h1>
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Lasantha+Pradeep;Architecting+Empires+of+Code;Backend+%E2%80%A2+Infrastructure+%E2%80%A2+Security" alt="Typing SVG" />
+    </a>
+  </h1>
 
-<h3 align="center">
-  Backend Architect • Golang Engineer • System Administrator
-</h3>
+  <p>
+    <b>Secure backend systems and infrastructure designed for scale, control, and longevity.</b>
+  </p>
 
-<p align="center">
-  Secure backend systems and infrastructure designed for scale, control, and longevity.
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=header"/>
+</div>
 
-<p align="center">
+## 👤 <span style="color:#d4af37">The Architect</span>
+
+I am a **Backend Software Engineer and System Administrator** specializing in **enterprise-grade systems**. Like a fortress, my work focuses on structure, defense, and reliability. I bridge the gap between application architecture and operating system hardening.
+
+> *"Architecture is authority, not convenience. Stability is designed — not patched."*
+
+---
+
+## ⚔️ <span style="color:#d4af37">The Arsenal</span>
+
+<div align="center">
+
+| **Core & Backend** | **Infrastructure & DevOps** | **Data & Storage** |
+| :---: | :---: | :---: |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) <br> ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) <br> ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
+
+</div>
+
+---
+
+## 🧠 <span style="color:#d4af37">Strategic Command</span>
+
+<table align="center">
+  <tr>
+    <td align="left" width="33%">
+      <h3>🏛️ Application Architecture</h3>
+      <ul>
+        <li><b>Golang (Gin, GORM)</b></li>
+        <li>Clean Architecture & DDD</li>
+        <li>Multi-tenant SaaS Platforms</li>
+        <li>RBAC & Policy Authorization</li>
+      </ul>
+    </td>
+    <td align="left" width="33%">
+      <h3>🛡️ System Hardening</h3>
+      <ul>
+        <li><b>RHEL / Ubuntu Administration</b></li>
+        <li>Firewall (iptables/nftables)</li>
+        <li>OS Lockdown & Security</li>
+        <li>Log Auditing & Diagnostics</li>
+      </ul>
+    </td>
+    <td align="left" width="33%">
+      <h3>⚙️ DevOps Engineering</h3>
+      <ul>
+        <li><b>Docker Containerization</b></li>
+        <li>CI/CD Pipelines</li>
+        <li>Prometheus Monitoring</li>
+        <li>Secrets Management (Vault)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 <span style="color:#d4af37">Conquests & Activity</span>
+
+<div align="center"> 
+  <a href="https://github.com/lasantha-pradeep">
+    <img src="https://github-readme-stats.vercel.app/api?username=lasantha-pradeep&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Lasantha's Stats" />
+  </a>
+  <a href="https://github.com/lasantha-pradeep">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasantha-pradeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lasantha-pradeep&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer"/>
-</p>
-
----
-
-## 👤 Professional Summary
-
-I am a **Backend Software Engineer and System Administrator** specializing in **enterprise-grade systems**.  
-My work spans **application architecture, operating system hardening, network control, and DevOps pipelines**.
-
-I focus on building systems that remain **stable, secure, and maintainable under real-world load**.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50"/>
-</p>
-
----
-
-## 🧠 Core Competencies
-
-### Backend & Application Architecture
-- Golang (Gin, GORM)
-- Clean Architecture & Domain-Driven Design (DDD)
-- RESTful APIs & authentication flows
-- Multi-tenant SaaS platforms
-- RBAC & policy-driven authorization
-- PostgreSQL, MySQL
-
-### System Administration & Infrastructure
-- Linux server administration (RHEL, Ubuntu)
-- OS hardening and service lockdown
-- Firewall configuration (iptables / nftables)
-- User, group, and permission management
-- Network monitoring and auditing
-- Log management and system diagnostics
-
-### DevOps & Platform Engineering
-- Docker & containerized deployments
-- CI/CD pipelines
-- Prometheus monitoring & metrics
-- Secure secrets handling (Vault concepts)
-- Infrastructure scripting (Bash)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50"/>
-</p>
-
----
-
-## 🛠️ Technology Stack
-
-**Languages**
-- Go (Primary)
-- JavaScript
-- PHP
-- Bash / Shell
-
-**Databases**
-- PostgreSQL
-- MySQL
-
-**Systems & Tools**
-- Linux
-- Docker
-- Nginx
-- Prometheus
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50"/>
-</p>
-
----
-
-## 🏗️ Systems I Build
-
-- **Enterprise SaaS Platforms**
-  - Multi-tenant invoicing & billing systems
-  - Policy-driven user and business management
-  - Secure admin panels and internal tooling
-
-- **Infrastructure & Operations Software**
-  - Network and server monitoring systems
-  - System automation tools
-  - Security-focused backend services
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50"/>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lasantha-pradeep&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasantha-pradeep&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer"/>
-</p>
-
----
-
-## 🧭 Engineering Philosophy
-
-> Architecture is authority, not convenience.  
-> Stability is designed — not patched.
-
-I approach systems the way **Qin Shi Huang unified an empire**:
-with **clear boundaries, enforceable rules, and strong foundations**.
-
----
-
-<p align="center">
-  <b>Backend • Infrastructure • Security • Systems that endure</b>
-</p>
+  <br>
+  <p><i>"I approach systems the way Qin Shi Huang unified an empire: with clear boundaries, enforceable rules, and strong foundations."</i></p>
+</div>
