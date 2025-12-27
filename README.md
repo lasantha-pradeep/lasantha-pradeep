@@ -84,11 +84,11 @@ I build **products**, not just projects — scalable, secure, and production-rea
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lasanthapradeep&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=lasantha-pradeep&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasanthapradeep&layout=compact&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasantha-pradeep&layout=compact&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="170"
   />
 </p>
