@@ -102,11 +102,7 @@ I build **products**, not just projects — scalable, secure, and production-rea
 - 🧠 Always interested in **hard system problems**
 - 🌍 Location: Sri Lanka (Remote-friendly)
 
-<p align="center">
-  <a href="https://github.com/lasantha-pradeep">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+
 
 ---
 
