@@ -1,9 +1,6 @@
 <!-- TOP ANIMATION -->
 <p align="center">
-  <img 
-    src="https://media.tenor.com/J0q6Xg8z7yAAAAAC/qin-shi-huang-ragnarok.gif"
-    width="600"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Golang+Backend+Architect;Clean+Architecture+%26+DDD;Enterprise+SaaS+Builder;Systems+that+Scale+and+Endure" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Lasantha Pradeep</h1>
