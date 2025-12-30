@@ -9,7 +9,7 @@
 
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Lasantha+Pradeep;Infrastructure;Backend-Designs;Architecture" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Lasantha+Pradeep" alt="Typing SVG" />
     </a>
   </h1>
 
