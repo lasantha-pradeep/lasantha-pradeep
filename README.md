@@ -42,7 +42,6 @@ func main() {
             "REST/SOAP APIs",
             "CI/CD & DevOps",
         },
-        Philosophy: "Simplicity is the ultimate sophistication",
     }
 }
 ```
@@ -50,7 +49,7 @@ func main() {
 </td>
 <td width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
 ### 🚀 Quick Facts
 
@@ -58,7 +57,7 @@ func main() {
 - 🌱 Deep diving intoSystem Design
 - ⚡ Passionate about developer tools & automation
 - 💬 Ask me about AWS, Docker, or Linux
-- 📫 Reach me: **contact.lasanthapradeep@gmail.com**
+- ⚡ "Simplicity is the ultimate sophistication"
 
 </td>
 </tr>
