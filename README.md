@@ -54,10 +54,9 @@ func main() {
 ### 🚀 Quick Facts
 
 - 🔭 Building scalable cloud-native applications
-- 🌱 Deep diving intoSystem Design
+- 🌱 Deep diving into System Design
 - ⚡ Passionate about developer tools & automation
 - 💬 Ask me about AWS, Docker, or Linux
-- ⚡ "Simplicity is the ultimate sophistication"
 
 </td>
 </tr>
