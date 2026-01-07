@@ -145,7 +145,7 @@ graph LR
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lasantha-pradeep)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lasantha-pradeep)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pradeep_connect)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.lasanthapradeep@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=lasantha-pradeep&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views" />
