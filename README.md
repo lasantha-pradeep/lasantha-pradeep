@@ -12,7 +12,7 @@
 
 ## 🎯 WHO AM I
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
