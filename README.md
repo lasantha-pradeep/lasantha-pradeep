@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ LASANTHA PRADEEP
+# LASANTHA PRADEEP
 
 ### `Full Stack Developer` • `Cloud & DevOps Consultant`
 
