@@ -83,13 +83,15 @@ func main() {
 
 <div align="center">
   
-
-
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=lasantha-pradeep&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E)](https://git.io/streak-stats)
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasantha-pradeep&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  </a>
+</div>
 
 </div>
 
